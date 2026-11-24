@@ -1,5 +1,12 @@
-## Summary # procurementsys
-AI for  Procurement 
+## Summary
+
+This project is an AI-powered Procurement Assistant
+designed to support procurement processes by identifying
+unknown spare parts, comparing alternative products,
+evaluating technical specifications, prices and delivery
+times, and supporting better purchasing decisions.
+
+All final decisions remain under human control.
 
 # Procurement AI – AI-Powered Procurement Assistant
 
